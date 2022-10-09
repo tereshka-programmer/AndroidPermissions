@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Permitions</string>
+    <string name="request_camera_permission">Request camera permition</string>
+    <string name="request">Request</string>
+    <string name="request_record_audio_and_access_fine_location_permissions">Request RECORD_AUDIO and ACCESS_FINE_LOCATION permition</string>
+</resources>
